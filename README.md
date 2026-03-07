@@ -8,9 +8,22 @@ Flipd is a beautiful, minimal flashcard app for iOS built with SwiftUI and MVVM 
 
 ## 📱 Screenshots
 
-| Launch | Decks | Study | Progress | Settings |
-|-------|-------|-------|----------|----------|
-| ![](Screenshots/launch.png) | ![](Screenshots/decks.png) | ![](Screenshots/study.png) | ![](Screenshots/progress.png) | ![](Screenshots/settings.png) |
+<table>
+  <tr>
+    <th>Launch</th>
+    <th>Decks</th>
+    <th>Study</th>
+    <th>Progress</th>
+    <th>Settings</th>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/launch.png" width="180"/></td>
+    <td><img src="Screenshots/decks.png" width="180"/></td>
+    <td><img src="Screenshots/study.png" width="180"/></td>
+    <td><img src="Screenshots/progress.png" width="180"/></td>
+    <td><img src="Screenshots/settings.png" width="180"/></td>
+  </tr>
+</table>
 ---
 
 ## ✨ Features
